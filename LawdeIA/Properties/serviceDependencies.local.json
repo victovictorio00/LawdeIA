@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.ServiceLinker/locations/canadacentral/connectors/ConnectionStringsDefaultConnection1_DCA2F50F3C",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/lawdeiadbserver/databases/LawdeIA_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnection1",
+      "dynamicId": null
+    }
+  }
+}

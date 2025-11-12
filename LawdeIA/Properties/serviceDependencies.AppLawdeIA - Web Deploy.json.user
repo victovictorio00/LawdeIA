@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2025-11-09T22:50:03.9734014Z"
+    },
+    "mssql3": {
+      "restored": true,
+      "restoreTime": "2025-11-09T22:50:01.3818442Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2025-11-08T17:28:46.0431348Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2025-11-09T22:50:15.2605788Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "0646e8c4-1e09-4028-8542-12c33fca4af2"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "RecursoAppLawdeIA"
+    },
+    "mssql1.serviceConnectorResourceGroupName": {
+      "Name": "mssql1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "RecursoAppLawdeIA"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# LawdeIA
+Proyecto IA cloud 
